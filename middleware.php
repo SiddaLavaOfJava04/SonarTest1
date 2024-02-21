@@ -22,3 +22,4 @@ class EnsureTokenIsValid
         return $next($request);
     }
 }
+?>
